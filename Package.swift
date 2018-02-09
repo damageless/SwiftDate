@@ -4,5 +4,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftDate"
+    name: "SwiftDate",
+    targets: [
+        Target(name: "SlackKit")
+    ],
 )
