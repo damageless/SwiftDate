@@ -7,5 +7,5 @@ let package = Package(
     name: "SwiftDate",
     targets: [
         .target(name: "SwiftDate")
-    ],
+    ]
 )
