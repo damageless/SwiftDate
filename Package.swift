@@ -6,6 +6,6 @@ import PackageDescription
 let package = Package(
     name: "SwiftDate",
     targets: [
-        Target(name: "SwiftDatet")
+        Target(name: "SwiftDate")
     ],
 )
